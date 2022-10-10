@@ -3,7 +3,7 @@ Este es un trabajo de fundamento de hardware sobre la contribución de las mujer
 
 ## Contenidos
 
-- [Hedy Lamarr]
+- [Hedy Lamarr](Científicas/HedyLamar.md)
 - [Radia Joy Perlman]
 - [Joan Clarke]
 - [Grace Murray]
