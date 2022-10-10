@@ -4,8 +4,8 @@ Este es un trabajo de fundamento de hardware sobre la contribución de las mujer
 ## Contenidos
 
 - [Hedy Lamarr](Científicas/HedyLamar.md)
-- [Radia Joy Perlman]
-- [Joan Clarke]
+- [Radia Joy Perlman]()
+- [Joan Clarke](Científicas/JoanClarke.md)
 - [Grace Murray](Científicas/GraceMurray.md)
 
 ## Cientifica española que hizo una contribución a la ciencia
