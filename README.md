@@ -14,7 +14,7 @@ Este es un trabajo de fundamento de hardware sobre la contribución de las mujer
 
 ## Biografia
 
-- (`Wikipedia`)[https://es.wikipedia.org/wiki/Wikipedia:Portada]
+- [`Wikipedia`](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## Licencia
 
