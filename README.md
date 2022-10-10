@@ -3,14 +3,14 @@ Este es un trabajo de fundamento de hardware sobre la contribución de las mujer
 
 ## Contenidos
 
-- (Hedy Lamarr)
-- (Radia Joy Perlman)
-- (Joan Clarke)
-- (Grace Murray)
+- [Hedy Lamarr]
+- [Radia Joy Perlman]
+- [Joan Clarke]
+- [Grace Murray]
 
 ## Cientifica española que hizo una contribución a la ciencia
 
-- (Elena García Armada)
+- [Elena García Armada]
 
 ## Biografia
 
