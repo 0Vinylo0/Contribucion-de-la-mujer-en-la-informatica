@@ -1,16 +1,17 @@
 # Contribucion de la mujer en la informatica
-Este es un trabajo de fundamento de hardware sobre la contribución de las mujeres en la informática
+
+`Este es un trabajo de fundamento de hardware sobre la contribución de las mujeres en la informática`
 
 ## Contenidos
 
-- [Hedy Lamarr](Científicas/HedyLamar.md)
-- [Radia Joy Perlman]()
-- [Joan Clarke](Científicas/JoanClarke.md)
-- [Grace Murray](Científicas/GraceMurray.md)
+- [`Hedy Lamarr`](Científicas/HedyLamar.md)
+- [`Radia Joy Perlman`](Científicas/RadiaJoyPerlman.md)
+- [`Joan Clarke`](Científicas/JoanClarke.md)
+- [`Grace Murray`](Científicas/GraceMurray.md)
 
 ## Cientifica española que hizo una contribución a la ciencia
 
-- [Elena García Armada](Científicas/ElenaGarcíaArmada.md)
+- [`Elena García Armada`](Científicas/ElenaGarcíaArmada.md)
 
 ## Biografia
 
