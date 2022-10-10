@@ -10,7 +10,7 @@ Este es un trabajo de fundamento de hardware sobre la contribución de las mujer
 
 ## Cientifica española que hizo una contribución a la ciencia
 
-- [Elena García Armada](Científicas/Elena García Armada.md)
+- [Elena García Armada](Científicas/ElenaGarcíaArmada.md)
 
 ## Biografia
 
